@@ -3,7 +3,7 @@ class Solution {
   return new StringBuilder(str).reverse().toString();
 }
 
-    public static boolean isPalindrome(int n) {
+ public static boolean isPalindrome(int n) {
         if(n<0) return false;
         else {
         String num = Double.toString(n);
