@@ -16,9 +16,9 @@ Feel free to contribute by adding solutions to new LeetCode problems or improvin
 Here are some guidelines for contributing:
 
 * - Follow the same coding style and conventions used in the existing solutions.
-*-Add clear comments to explain your approach and code.
-*-Include test cases for your solutions (optional but highly recommended).
-*-Create a pull request with your changes.
+* - Add clear comments to explain your approach and code.
+* - Include test cases for your solutions (optional but highly recommended).
+* - Create a pull request with your changes.
 
 ## License
 
