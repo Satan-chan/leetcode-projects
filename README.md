@@ -25,24 +25,16 @@ Here are some guidelines for contributing:
 This repository is licensed under the MIT License.
 
 ## Directory Structure 
-
-  Leetcode-problems/
-        |
-        |----> easy problems/ 
-        |           |
-        |           |-----> problem1.java
-        |           |------> problem2.java
-        |
-        |-----> medium problems/
-        |           |
-        |           |--------> problem1.java
-        |           |--------> problem2.java
-        |
-        |------> hard problems
-        |           |
-        |           |-----> problem1.java
-        |           |------> problem2.java
-      
+* **leetcode-problems** (main directory)
+    * **easy_problems** (subdirectory containing solutions for easy problems)
+        * problem1.java (solution file for LeetCode problem 1 - Easy)
+        * problem2.java (solution file for LeetCode problem 2 - Easy)
+    * **medium_problems** (subdirectory containing solutions for medium problems)
+        * problem1.java (solution file for LeetCode problem 1 - Medium)
+        * problem2.java (solution file for LeetCode problem 2 - Medium)
+    * **hard_problems** (subdirectory containing solutions for hard problems)
+        * problem1.java (solution file for LeetCode problem 1 - Hard)
+        * problem2.java (solution file for LeetCode problem 2 - Hard)
 
 
 ## Resources 
