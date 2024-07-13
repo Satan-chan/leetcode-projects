@@ -24,6 +24,28 @@ Here are some guidelines for contributing:
 
 This repository is licensed under the MIT License.
 
+## Directory Structure 
+
+  Leetcode-problems/
+        |
+        |----> easy problems/ 
+        |           |
+        |           |-----> problem1.java
+        |           |------> problem2.java
+        |
+        |-----> medium problems/
+        |           |
+        |           |--------> problem1.java
+        |           |--------> problem2.java
+        |
+        |------> hard problems
+        |           |
+        |           |-----> problem1.java
+        |           |------> problem2.java
+      
+
+
 ## Resources 
 
-In this repository I have added some of my solved problems in leetcode. You can check out my leetcode profile for solved problems in Leetcode. Here's my profile link to Leetcode 
+In this repository I have added some of my solved problems in leetcode. You can check out my leetcode profile for solved problems in Leetcode. Here's my profile link to Leetcode :  
+🔗- https://leetcode.com/u/shu-kun/
