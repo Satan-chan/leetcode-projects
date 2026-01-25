@@ -40,4 +40,4 @@ This repository is licensed under the MIT License.
 ## Resources 
 
 In this repository I have added some of my solved problems in leetcode. You can check out my leetcode profile for solved problems in Leetcode. Here's my profile link to Leetcode :  
-🔗- https://leetcode.com/u/shu-kun/
+🔗- https://leetcode.com/u/shubhrajyoti-gupta/
